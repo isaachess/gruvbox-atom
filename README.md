@@ -1,7 +1,5 @@
-# Gruvbox theme
+# NO LONGER SUPPORTED
 
-A Gruvbox theme for Atom. Easy on the eyes, beautiful theme.
+I have decided to stop supporting thing package in favor of https://github.com/caleb/retro-gruvbox-atom, which seems like a better port anyway. I'm not really a full-time atom user, and that other package is better supported.
 
-Based on / inspired by https://github.com/morhetz/gruvbox.
-
-![Screenshot](https://cloud.githubusercontent.com/assets/3473742/4616189/0c090200-52f1-11e4-8a43-5ecae2bfd0f9.png)
+Thanks!
